@@ -6,6 +6,12 @@ Students can filter out jobs according to their interest
 ## Deployment
 
 This project is live and hosted on [link](https://alumni-connect-ba161.web.app/)
+
+## Screenshots
+![Screenshot (247)](https://user-images.githubusercontent.com/59499244/105730639-99f82480-5f54-11eb-9ec3-4e5aa94bb048.png)
+![Screenshot (248)](https://user-images.githubusercontent.com/59499244/105730657-9d8bab80-5f54-11eb-84ca-4d5e201b0e4a.png)
+![Screenshot (250)](https://user-images.githubusercontent.com/59499244/105730673-a11f3280-5f54-11eb-8b59-e35f0f566ab4.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
